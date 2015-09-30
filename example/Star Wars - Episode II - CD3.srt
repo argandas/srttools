@@ -1,0 +1,625 @@
+1
+00:00:15,990 --> 00:00:18,925
+Esto no me gusta nada.
+
+2
+00:00:44,519 --> 00:00:45,679
+Relájate. Concéntrate.
+
+3
+00:00:45,787 --> 00:00:46,981
+¿Y Padmé?
+
+4
+00:00:47,088 --> 00:00:49,215
+Está por encima de las circunstancias.
+
+5
+00:01:52,220 --> 00:01:55,951
+¡Ella no puede hacer eso!
+¡Dispárenle o algo!
+
+6
+00:03:14,802 --> 00:03:16,201
+¡Salta!
+
+7
+00:03:40,328 --> 00:03:43,889
+¡No debe ser así!
+
+8
+00:03:43,998 --> 00:03:45,625
+¡Jango! ¡Acaba con ella!
+
+9
+00:03:45,733 --> 00:03:48,964
+Paciencia, virrey, paciencia.
+Ella morirá.
+
+10
+00:04:19,800 --> 00:04:23,702
+Maestro Windu, qué gusto
+que haya venido a acompañarnos.
+
+11
+00:04:23,804 --> 00:04:25,829
+Esta fiesta se acabó.
+
+12
+00:04:39,420 --> 00:04:44,153
+Valiente, pero descabellado,
+mi viejo amigoJedi.
+
+13
+00:04:44,258 --> 00:04:46,123
+Somos demasiados para ustedes.
+
+14
+00:04:46,227 --> 00:04:48,559
+No me parece.
+
+15
+00:04:48,663 --> 00:04:50,096
+Ya lo veremos.
+
+16
+00:05:28,836 --> 00:05:31,430
+Mis piernas no me obedecen.
+Necesito mantenimiento.
+
+17
+00:06:11,178 --> 00:06:13,646
+¿Qué es todo ese ruido? ¡Una batalla!
+
+18
+00:06:13,748 --> 00:06:18,776
+¡Ha habido un gran error! ¡Yo sirvo
+para la etiqueta, no para pelear!
+
+19
+00:07:46,307 --> 00:07:50,038
+¡Mueran, perros Jedi! ¡Ay! ¿Qué dije?
+
+20
+00:07:59,119 --> 00:08:02,418
+¡Ay, cielos! ¡Lo siento muchísimo!
+
+21
+00:08:08,095 --> 00:08:10,996
+Disculpen. Estoy atrapado.
+No me puedo parar.
+
+22
+00:08:24,945 --> 00:08:27,106
+¿Esto es una solución diplomática?
+
+23
+00:08:27,214 --> 00:08:28,977
+No, estas son negociaciones agresivas.
+
+24
+00:08:34,121 --> 00:08:36,089
+- ¡Ay!
+- Afirmativo, afirmativo.
+
+25
+00:08:54,241 --> 00:08:56,505
+R2, ¿qué haces aquí?
+
+26
+00:08:59,713 --> 00:09:01,044
+¿Qué haces?
+
+27
+00:09:01,181 --> 00:09:05,675
+¡Detente! ¡Vas a luxarme algo!
+¡Mi cuello!
+
+28
+00:09:07,988 --> 00:09:11,014
+¿A dónde me llevas?
+Eres una verdadera lata.
+
+29
+00:09:16,030 --> 00:09:18,055
+Estoy fuera de mis casillas.
+
+30
+00:09:26,774 --> 00:09:30,005
+R2, por favor ten cuidado.
+¡Estás quemando mis circuitos!
+
+31
+00:09:31,445 --> 00:09:33,970
+¡Bravo!
+Pero ¿tengo bien puesta la cabeza?
+
+32
+00:09:56,737 --> 00:09:58,364
+Maestro Windu...
+
+33
+00:09:58,472 --> 00:10:00,702
+...ha peleado galantemente.
+
+34
+00:10:01,875 --> 00:10:05,902
+Se merece un reconocimiento
+en los anales de la Orden Jedi.
+
+35
+00:10:07,881 --> 00:10:09,178
+Ahora...
+
+36
+00:10:10,150 --> 00:10:12,550
+...esto ha terminado.
+
+37
+00:10:12,653 --> 00:10:14,644
+Ríndanse...
+
+38
+00:10:14,755 --> 00:10:17,451
+...y les perdonaré la vida.
+
+39
+00:10:18,325 --> 00:10:21,453
+¡No seremos rehenes
+para que haga sus trueques, Dooku!
+
+40
+00:10:21,562 --> 00:10:22,586
+Entonces...
+
+41
+00:10:24,064 --> 00:10:26,123
+...lo siento, viejo amigo.
+
+42
+00:10:36,810 --> 00:10:38,243
+¡Miren!
+
+43
+00:10:50,257 --> 00:10:54,216
+Alrededor de los sobrevivientes
+un perímetro creen.
+
+44
+00:11:50,751 --> 00:11:53,777
+Tuve un sueño sumamente peculiar.
+
+45
+00:12:04,398 --> 00:12:06,389
+Si Dooku escapa...
+
+46
+00:12:06,500 --> 00:12:10,197
+...más sistemas a su causa aunará.
+
+47
+00:12:14,741 --> 00:12:16,572
+¡Sujétense!
+
+48
+00:12:21,115 --> 00:12:23,083
+¡Apunta arriba del combustible!
+
+49
+00:12:29,423 --> 00:12:31,687
+Bien hecho, mi joven Padawan.
+
+50
+00:12:45,939 --> 00:12:48,271
+Los Jedi han amasado un ejército enorme.
+
+51
+00:12:48,375 --> 00:12:53,244
+Parece imposible. ¿De dónde sacaron
+un ejército tan rápido?
+
+52
+00:12:53,347 --> 00:12:56,783
+Tenemos que enviar
+todos los droides a la refriega.
+
+53
+00:12:56,884 --> 00:12:58,784
+Son demasiados.
+
+54
+00:12:59,686 --> 00:13:02,519
+Bloquearon nuestras comunicaciones.
+
+55
+00:13:10,731 --> 00:13:13,632
+¡Piloto,
+aterrice en esa zona de reunión!
+
+56
+00:13:13,734 --> 00:13:15,065
+Sí, señor.
+
+57
+00:13:23,143 --> 00:13:27,136
+Señor, tengo 5 unidades especiales
+de comandos esperando órdenes.
+
+58
+00:13:28,148 --> 00:13:31,447
+Al Centro de Mando de Avanzada llévenme.
+
+59
+00:13:54,775 --> 00:13:57,505
+¡Ataca esas naves estelares
+de la Federación!
+
+60
+00:14:08,488 --> 00:14:12,288
+Maestro Yoda, las posiciones
+más adelantadas están avanzando.
+
+61
+00:14:12,392 --> 00:14:14,257
+Muy bien.
+
+62
+00:14:14,895 --> 00:14:16,522
+¡Muy bien!
+
+63
+00:14:44,725 --> 00:14:46,818
+Esto no pinta nada bien.
+
+64
+00:14:48,095 --> 00:14:51,360
+Debemos mandar
+todas las naves estelares al espacio.
+
+65
+00:14:54,401 --> 00:14:58,337
+Tenemos que ordenar la retirada.
+
+66
+00:14:58,438 --> 00:15:02,898
+Mi señor jamás permitirá
+que la República nos traicione así.
+
+67
+00:15:03,010 --> 00:15:06,571
+Ordenaré a mis guerreros
+que se oculten en las catacumbas.
+
+68
+00:15:07,281 --> 00:15:11,718
+Los Jedi no deben encontrar
+el diseño de la superarma.
+
+69
+00:15:13,353 --> 00:15:18,450
+Si descubren lo que queremos construir,
+estamos perdidos.
+
+70
+00:15:21,728 --> 00:15:24,162
+Yo me llevaré los diseños a Coruscant.
+
+71
+00:15:25,098 --> 00:15:27,828
+Ahí estarán mucho más a salvo,
+con mi señor.
+
+72
+00:16:22,356 --> 00:16:27,157
+Concentren todo su fuego
+en la nave más cercana.
+
+73
+00:16:27,260 --> 00:16:29,091
+Sí, señor.
+
+74
+00:16:29,196 --> 00:16:32,654
+Muevan todos los cuadrantes
+al sector 5-1-5.
+
+75
+00:17:12,806 --> 00:17:14,273
+¡Miren ahí!
+
+76
+00:17:17,744 --> 00:17:20,144
+¡Es Dooku! ¡Derríbelo!
+
+77
+00:17:20,247 --> 00:17:22,147
+Ya no tenemos cohetes, señor.
+
+78
+00:17:22,249 --> 00:17:25,116
+- ¡Sígalo!
+- ¡Necesitaremos ayuda!
+
+79
+00:17:25,218 --> 00:17:29,279
+¡No hay tiempo!
+¡Anakin y yo podemos con él!
+
+80
+00:17:52,746 --> 00:17:55,340
+¡Aterriza la nave!
+
+81
+00:17:55,449 --> 00:17:57,349
+¡Olvida tus sentimientos personales!
+
+82
+00:17:57,451 --> 00:17:59,214
+¡Siga esa moto!
+
+83
+00:18:05,292 --> 00:18:07,658
+- ¡Aterriza!
+- ¡No puedo con Dooku solo!
+
+84
+00:18:07,761 --> 00:18:12,721
+¡Si lo agarramos, podemos poner fin
+a la guerra! ¡Es nuestro trabajo!
+
+85
+00:18:12,833 --> 00:18:14,357
+¡No me importa! ¡Aterriza!
+
+86
+00:18:14,468 --> 00:18:16,766
+¡La Orden de los Jedi te expulsará!
+
+87
+00:18:16,870 --> 00:18:18,064
+¡No la puedo dejar!
+
+88
+00:18:18,171 --> 00:18:22,835
+Sé razonable.
+¿Qué crees que haría Padmé en tu lugar?
+
+89
+00:18:27,481 --> 00:18:29,506
+Ella cumpliría con su deber.
+
+90
+00:18:38,492 --> 00:18:40,551
+El ejército de droides se retira.
+
+91
+00:18:40,660 --> 00:18:43,754
+Bien hecho, comandante.
+Tráigame una nave.
+
+92
+00:19:10,757 --> 00:19:13,885
+La pagarás por los Jedi
+que mataste hoy, Dooku.
+
+93
+00:19:13,994 --> 00:19:15,689
+Atacaremos juntos.
+
+94
+00:19:15,795 --> 00:19:17,763
+- ¡Yo lo atacaré ya!
+- ¡No, Anakin!
+
+95
+00:19:25,939 --> 00:19:29,431
+Como ves, mis poderes deJedi
+son muy superiores a los suyos.
+
+96
+00:19:29,543 --> 00:19:31,477
+Ahora, retírate.
+
+97
+00:19:37,317 --> 00:19:39,148
+Yo creo que no.
+
+98
+00:19:51,464 --> 00:19:54,695
+Maestro Kenobi, me decepcionas.
+
+99
+00:19:54,801 --> 00:19:57,861
+Yoda te estima mucho.
+
+100
+00:20:00,240 --> 00:20:02,674
+Seguramente sabes pelear mejor.
+
+101
+00:20:13,853 --> 00:20:15,753
+¿Se encuentra bien?
+
+102
+00:20:15,855 --> 00:20:17,516
+Sí.
+
+103
+00:20:18,158 --> 00:20:20,422
+Vamos al Centro de Mando de Avanzada.
+
+104
+00:20:20,527 --> 00:20:25,760
+No. Reúna todas las tropas que pueda.
+Debemos llegar a ese hangar.
+
+105
+00:20:25,865 --> 00:20:27,833
+Traiga un transporte. ¡De prisa!
+
+106
+00:20:27,934 --> 00:20:28,992
+Enseguida.
+
+107
+00:20:54,127 --> 00:20:55,992
+Un acto valiente, muchacho.
+
+108
+00:20:57,263 --> 00:20:59,493
+Pero ¿no aprendiste tu lección?
+
+109
+00:20:59,599 --> 00:21:01,191
+Soy de lento aprendizaje.
+
+110
+00:21:01,301 --> 00:21:02,268
+¡Anakin!
+
+111
+00:22:03,663 --> 00:22:05,426
+Maestro Yoda.
+
+112
+00:22:05,532 --> 00:22:08,592
+Conde Dooku.
+
+113
+00:22:08,702 --> 00:22:12,069
+Ha interferido en nuestros asuntos
+por última vez.
+
+114
+00:22:43,369 --> 00:22:46,304
+Poderoso te has vuelto, Dooku.
+
+115
+00:22:46,806 --> 00:22:49,900
+El lado oscuro siento en ti.
+
+116
+00:22:50,009 --> 00:22:52,807
+Me he vuelto mucho más poderoso
+que cualquierJedi.
+
+117
+00:22:53,913 --> 00:22:55,540
+Más que usted.
+
+118
+00:23:10,930 --> 00:23:13,990
+Mucho que aprender todavía tienes.
+
+119
+00:23:14,100 --> 00:23:19,663
+Esta lucha no será decidida por nuestro
+conocimiento de la Fuerza...
+
+120
+00:23:21,708 --> 00:23:24,302
+...sino por nuestra pericia
+con la espada láser.
+
+121
+00:24:05,552 --> 00:24:09,318
+Peleado bien has, mi viejo Padawan.
+
+122
+00:24:09,422 --> 00:24:11,185
+Esto es sólo el principio.
+
+123
+00:25:26,032 --> 00:25:27,363
+¡Anakin!
+
+124
+00:26:44,377 --> 00:26:46,845
+La Fuerza está con nosotros,
+maestro Sidious.
+
+125
+00:26:46,946 --> 00:26:49,915
+Bienvenido a casa, lord Tyranus.
+
+126
+00:26:51,784 --> 00:26:54,116
+Ha hecho un buen trabajo.
+
+127
+00:26:54,220 --> 00:26:56,586
+Le tengo buenas noticias, milord.
+
+128
+00:26:58,091 --> 00:26:59,422
+La guerra ha empezado.
+
+129
+00:26:59,525 --> 00:27:04,428
+Excelente. Todo va según lo planeado.
+
+130
+00:27:14,407 --> 00:27:18,366
+¿Cree Ud. lo que Dooku dijo,
+que Sidious controla el senado?
+
+131
+00:27:18,911 --> 00:27:20,902
+No lo sentí verdad.
+
+132
+00:27:21,247 --> 00:27:24,216
+Unídose al lado oscuro Dooku ha.
+
+133
+00:27:25,518 --> 00:27:27,247
+Mentiras, engaños...
+
+134
+00:27:27,353 --> 00:27:31,153
+...crear desconfianza
+son sus métodos ahora.
+
+135
+00:27:31,257 --> 00:27:35,819
+Sin embargo, debemos vigilar
+más de cerca al senado.
+
+136
+00:27:35,928 --> 00:27:37,953
+Estoy de acuerdo.
+
+137
+00:27:39,098 --> 00:27:40,963
+¿Dónde está su aprendiz?
+
+138
+00:27:41,067 --> 00:27:44,969
+Camino a Naboo, escoltando
+a la senadora Amidala a casa.
+
+139
+00:27:46,773 --> 00:27:50,402
+Debo admitir que sin los clones,
+esto no habría sido una victoria.
+
+140
+00:27:50,510 --> 00:27:52,569
+¿Victoria?
+
+141
+00:27:53,446 --> 00:27:55,846
+¿Victoria, dices?
+
+142
+00:27:55,948 --> 00:27:59,645
+Maestro Obi-Wan, victoria no ha sido.
+
+143
+00:28:01,187 --> 00:28:04,418
+La mortaja del lado oscuro ha caído.
+
+144
+00:28:05,758 --> 00:28:09,592
+La Guerra de los Clones empezado ha.
+
